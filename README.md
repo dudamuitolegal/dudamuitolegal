@@ -1,6 +1,11 @@
 # 💫 About Me:
 🌪  Atualmente estou trabalhando de front-end e aprendendo PHP  🌪  <br><br>
 
+# 🚀 Web Projects:
+
+[test for my first job] (https://dudamuitolegal.github.io/first-job-test/) <br>
+[password generator] (https://dudamuitolegal.github.io/password-generator/) <br>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dudamuitolegal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dudamuitolegal) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/dudamuitolegal) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/dudamuitolegal) 
