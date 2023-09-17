@@ -3,8 +3,8 @@
 
 # 🚀 Web Projects:
 
-[test for my first job] (https://dudamuitolegal.github.io/first-job-test/) <br>
-[password generator] (https://dudamuitolegal.github.io/password-generator/) <br>
+[test for my first job](https://dudamuitolegal.github.io/first-job-test/) <br>
+[password generator](https://dudamuitolegal.github.io/password-generator/) <br>
 
 
 ## 🌐 Socials:
